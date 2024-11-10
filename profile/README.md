@@ -9,7 +9,7 @@
 > “당신의 선택이 곧 이야기가 됩니다.”<br /><br />
 > 나라티바와 함께 상상 이상의 스토리를 만들어 보세요.
 
-- 프로젝트 기간 : 24.11.06 ~ 12.20
+### 프로젝트 기간 : 24.11.06 ~ 12.20
 
 <br />
 
@@ -67,6 +67,8 @@
 - **특징**: 다양한 선택에 따라 주인공의 스탯이 변화하며, 각 성장 경로에 따라 결말이 달라짐.
 
 ## 🗝️ **Architecture**
+
+![KakaoTalk_20241107_174245802](https://github.com/user-attachments/assets/bc778826-f4ac-447a-a5b5-6a653b807a34)
 
 ## 🗝️ **Feature**
 
@@ -166,5 +168,12 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![AWS ECS](https://img.shields.io/badge/AWS%20ECS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS ECR](https://img.shields.io/badge/AWS%20ECR-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
+![AWS SNS](https://img.shields.io/badge/AWS%20SNS-FF4F8B?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS SQS](https://img.shields.io/badge/AWS%20SQS-FF4F8B?style=for-the-badge&logo=amazon-sqs&logoColor=white)
+![Route 53](https://img.shields.io/badge/Route%2053-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS WAF](https://img.shields.io/badge/AWS%20WAF-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 </details>
