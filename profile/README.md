@@ -1,4 +1,4 @@
-![NARATIVA-TITLE](https://github.com/user-attachments/assets/cb308bb8-4ba8-4c32-b94c-d69ceb5e6994)
+![NARRATIVA-TITLE](https://github.com/user-attachments/assets/97538156-f202-4b48-8543-9bbf835fda0e)
 
 ![Python](https://img.shields.io/badge/Python-v3.10.8-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-v3.10.5-02569B?style=for-the-badge&logo=flutter&logoColor=white)
