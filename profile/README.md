@@ -2,6 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-v3.10.8-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-v18.3.1-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-v3.3.5-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 > 우리는 나라티바(Narrativa)입니다.
 > 스토리텔링의 예술성과 AI 기술을 결합해, 플레이어가 직접 이야기의 주인공이 되어 스토리를 창조하는 경험을 제공합니다.
