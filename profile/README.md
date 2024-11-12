@@ -17,6 +17,9 @@
 <a href="https://power-moonstone-977.notion.site/AI-X-4-A1-12d7de0d6eed8015876dccfaa38cebca?pvs=4">
   <img src="https://github.com/user-attachments/assets/22e11d93-3b37-44a7-946a-d7bdb162aab8" alt="노션링크" width="250" height="auto">
 </a>
+<a href="https://miro.com/welcomeonboard/b3MyY2NXYW9JRHdQZmNrZ3FuanBjVjlxSWVMMmxPSmJwQktZSkJFOVoweG5xNU1KYTZ5d0JoeVNpY29CV0czaHwzNDU4NzY0NjA2NTU4NTAyOTY2fDI=?share_link_id=785012554232">
+  <img src="https://github.com/user-attachments/assets/7df69895-0238-40a9-bf34-a7c89addbad9" alt="미로링크" width="250" height="auto">
+</a>
 
 ## 🗝️ **Introduction**
 
