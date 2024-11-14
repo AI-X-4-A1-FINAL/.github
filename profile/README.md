@@ -187,3 +187,6 @@
 ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
 
 </details>
+
+<br /><br />
+![footer](https://github.com/user-attachments/assets/df9a78ea-0367-4899-b77e-bb20175dc1dc)
