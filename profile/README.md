@@ -34,29 +34,29 @@
 
 ### 게임 장르
 
-#### 추리 (Detective Mystery)
-- 플레이어는 탐정 역할
-- 10컷 내 범인 찾기
-- 시간/선택 제한으로 스릴감 부여
-- 결과: 정답/오답
-
 #### 생존 (Survival Horror)
 - 플레이어는 생존자 역할
-- 10컷 내 생존 여부 결정
+- 5컷 내 생존 여부 결정
 - 실시간 생존 확률 조정
 - 결과: 생존/사망
 
-#### 로맨스 판타지 (Romantic Fantasy)
+#### 로맨스 판타지 (Romantic Fantasy) - 개발예정
 - 남주/여주 선택 가능
-- 10컷 내 연애 성공 도전
+- 5컷 내 연애 성공 도전
 - 감정선에 따른 스토리 분기
 - 결과: 연애 성공/실패
 
-#### 키우기류 (Raising Simulation)
+#### 키우기류 (Raising Simulation) - 개발예정
 - 프린세스 메이커 스타일
-- 10컷 내 캐릭터 성장
+- 5컷 내 캐릭터 성장
 - 선택에 따른 스탯 변화
 - 결과: 다양한 성장 결과
+
+#### 추리 (Detective Mystery) - 개발예정
+- 플레이어는 탐정 역할
+- 5컷 내 범인 찾기
+- 시간/선택 제한으로 스릴감 부여
+- 결과: 정답/오답
 
 ## 🗝️ Features
 
@@ -174,14 +174,11 @@
 
 ### Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### Cloud/Infrastructure
 ![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![AWS ECS](https://img.shields.io/badge/AWS%20ECS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![AWS SQS](https://img.shields.io/badge/AWS%20SQS-FF4F8B?style=for-the-badge&logo=amazonsqs&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
 
 ### Development Tools
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
